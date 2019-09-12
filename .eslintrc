@@ -1,0 +1,80 @@
+{
+  "rules": {
+    "indent": [
+      "error",
+      2, {
+        "SwitchCase": 1
+      }
+    ],
+    "max-len": [
+      "error",
+      {
+        "code": 140,
+        "tabWidth": 2
+      }
+    ],
+    "quotes": [
+      "error",
+      "single"
+    ],
+    "no-multi-spaces": [
+      "error"
+    ],
+    "space-infix-ops": [
+      "error"
+    ],
+    "linebreak-style": [
+      "off"
+    ],
+    "semi": [
+      "error",
+      "always"
+    ],
+    "eol-last": [
+      "error",
+      "always"
+    ],
+    "func-call-spacing": [
+      "error",
+      "never"
+    ],
+    "space-before-function-paren": [
+      "error",
+      {
+        "anonymous": "never",
+        "named": "never",
+        "asyncArrow": "always"
+      }
+    ],
+    "space-before-blocks": [
+      "error",
+      "always"
+    ],
+    "func-style": [
+      "error",
+      "declaration", {
+        "allowArrowFunctions": true
+      }
+    ],
+    "no-empty-function": [
+      "error"
+    ],
+    "no-debugger": [
+      "error"
+    ],
+    "no-console": [
+      "error", {
+        "allow": ["error", "info"]
+      }
+    ]
+  },
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 6
+  },
+  "plugins": []
+}
