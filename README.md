@@ -1,4 +1,4 @@
-![Logo Wooza](./imgs/logo.jpg)
+![Logo Wooza](./src/images/logo.png)
 
 # Vaga: Front-End
 
@@ -6,7 +6,7 @@ Muito bom você ter chegado até aqui! :)
 
 Através desse teste poderemos analisar o seu estilo de codificação, bibliotecas preferidas, raciocínio lógico, entre outros detalhes que poderão fazer a diferença na hora da sua entrevista.
 
-Lembrando que esse teste é opcional, e daremos total prioridade na seleção para quem enviá-lo junto com o currículo. Mande o seu resultado num repositório criado por você mesmo e depois nos mande o link. Não mande arquivos zipado e nem links de Google Drive afins, só aceitaremos testes feitos aqui no Github ;)
+Lembrando que esse teste é obrigatório. Mande o seu resultado num repositório criado por você mesmo e depois nos mande o link. Não mande arquivos zipado e nem links de Google Drive e afins. Só aceitaremos testes feitos aqui no Github ;)
 
 Ah, mais um detalhe importante: essa vaga é presencial, e nosso escritório fica localizado aqui na Barra da Tijuca, Rio de Janeiro/RJ. Por enquanto, não temos previsão de trabalho remoto.
 
@@ -26,9 +26,9 @@ Aqui na Wooza trabalhamos com aplicações completas em JavaScript no geral e al
 
 Usamos API's internas para interagir com nossos projetos durante o fluxo de navegação do usuário, nada de MVC por aqui. Por isso, queremos conhecer um pouco da sua experiência com JavaScript e alguns desses frameworks. Alguns projetos legados são feitos em AngularJS, portanto, caso queira fazer nesse, sem problemas, mas daremos mais ênfase às outras tecnologias.
 
-A sua aplicação deverá listar as plataformas da seguinte API: 
+A sua aplicação deverá listar as plataformas da seguinte API:
 ```
-http://private-59658d-celulardireto2017.apiary-mock.com/plataformas 
+http://private-59658d-celulardireto2017.apiary-mock.com/plataformas
 ```
 Com essa listagem, você deverá possibilitar ao usuário navegar pelos respectivos planos (vinculados pelo sku) de cada plataforma. Abaixo segue as URL's da API de planos:
 
@@ -57,7 +57,7 @@ A parte visual fica ao seu critério, faça como achar melhor. Não esqueça de 
 * Boa arquitetura, organização e padronização de código (lint, editorconfig, csscomb)
 * Automatização de tarefas (Webpack e afins)
 * Código em ES6, por favor ;) (a não ser que seja Typescript com, ou sem, Angular)
-* Reutilização e Componentização 
+* Reutilização e Componentização
 * Organização dos estilos (Aqui nós utilizamos o ITCSS)
 * Noções de UI/UX
 * Testes serão um excelente **diferencial**
