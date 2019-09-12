@@ -22,7 +22,7 @@ body {
   margin: 50px 0;
 }
 
-.message {    
+.message {
   border: 1px solid #999;
   color: #999;
   display: block;
@@ -32,7 +32,7 @@ body {
   padding: 10px;
   text-align: center;
   text-indent: -999999px;
-  text-transform: uppercase;    
+  text-transform: uppercase;
   visibility: hidden;
   width: 60%;
 }
