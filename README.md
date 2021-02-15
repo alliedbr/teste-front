@@ -1,4 +1,4 @@
-![Logo Allied Brasil](./imgs/logo.png)
+![Logo Allied Brasil](./imgs/logo-allied.png)
 
 # Seja bem vindo!
 
