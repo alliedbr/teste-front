@@ -1,8 +1,8 @@
-![Logo Wooza](./imgs/logo.jpg)
+![Logo Allied Brasil](./imgs/logo.png)
 
 # Seja bem vindo!
 
-Aqui na Wooza utilizamos o Git Flow como modelo de organização das branches dos nossos repositórios.
+Aqui na Allied utilizamos o Git Flow como modelo de organização das branches dos nossos repositórios.
 
 O caminho para se candidatar à vaga está em `desenvolvimento`.
 
