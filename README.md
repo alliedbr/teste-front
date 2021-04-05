@@ -22,7 +22,7 @@ Ah, mais um detalhe importante: essa vaga é presencial, e nosso escritório fic
 
 ## Ok, mas como é esse teste?
 
-Aqui na Wooza trabalhamos com aplicações completas em JavaScript no geral e alguns de seus `frameworks`. Nossos projetos são feitos geralmente em Angular e React, junto com o Gatsby. Mas caso queira usar Vue, por exemplo, não tem problema ;)
+Aqui na Allied trabalhamos com aplicações completas em JavaScript no geral e alguns de seus `frameworks`. Nossos projetos são feitos geralmente em Angular e React, junto com o Gatsby ou Next. Mas caso queira usar Vue, por exemplo, não tem problema ;) Nós usamos em alguns projetos aqui também ;)
 
 Usamos API's internas para interagir com nossos projetos durante o fluxo de navegação do usuário, nada de MVC por aqui. Por isso, queremos conhecer um pouco da sua experiência com JavaScript e alguns desses frameworks. Alguns projetos legados são feitos em AngularJS, portanto, caso queira fazer nesse, sem problemas, mas daremos mais ênfase às outras tecnologias.
 
@@ -54,11 +54,11 @@ A parte visual fica ao seu critério, faça como achar melhor. Não esqueça de 
 
 ## O que iremos analisar
 
-* Boa arquitetura, organização e padronização de código (lint, editorconfig, csscomb)
+* Boa arquitetura, organização e padronização de código (lint/prettier, editorconfig, csscomb)
 * Automatização de tarefas (Webpack e afins)
-* Código em ES6, por favor ;) (a não ser que seja Typescript com, ou sem, Angular)
+* Código em ES6+, por favor ;) (a não ser que seja Typescript com, ou sem, Angular)
 * Reutilização e Componentização
-* Organização dos estilos (Aqui nós utilizamos o ITCSS)
+* Organização dos estilos (Aqui nós utilizamos Styled Components para React e o ITCSS para o restante)
 * Noções de UI/UX
 * Testes serão um excelente **diferencial**
 
