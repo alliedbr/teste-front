@@ -1,4 +1,4 @@
-![Logo Wooza](./src/images/logo.png)
+![Logo Allied](./src/images/logo.png)
 
 # Vaga: Front-End
 
