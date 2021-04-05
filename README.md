@@ -16,7 +16,7 @@ Ah, mais um detalhe importante: essa vaga é presencial, e nosso escritório fic
 
 * Implemente sua solução para a proposta do teste.
 * Documente todos os passos necessários para executá-la (Um Readme como esse)
-* Envie por e-mail para raquel.silva@wooza.com.br junto com o seu currículo e link do seu perfil no Linkedin.
+* Envie por e-mail para mariana.barata@alliedbrasil.com.br junto com o seu currículo e link do seu perfil no Linkedin.
 
 ---
 
